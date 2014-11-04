@@ -1,0 +1,88 @@
+body{
+	background-image: url('../img/back.png');
+	font-family: 'Roboto', sans-serif;
+}
+
+#miperfil {
+	background-color: #02AFCF;
+	width: 460px;
+	position: absolute;
+	left: 50%; /*Con esto lo mueves a la mitad y luego ya lo jalas */
+	top: 15%;
+	margin-left: -230px;
+	border-radius: 20px;
+}
+
+#miperfil header{
+	background-color: white;
+	border-radius: 20px 20px 0 0;
+}
+
+#miperfil header .resumen{
+	padding: 30px 20px 30px 20px;
+	position: relative;
+}
+
+#miperfil header .resumen .avatarjm{
+	position: absolute;
+	width: 100px;
+	height: 100px;
+	right: -40px;
+	top: 5px;
+	border: 4px solid;
+	border-color: white;
+	border-radius: 60px;
+	overflow: hidden;
+}
+
+#miperfil header .resumen .avatarjm img{
+	width: 100%;
+	height: auto;
+}
+
+#miperfil header .resumen h1 {
+	margin: 0;
+	font-size: 36px;
+	font-weight: 400;
+}
+
+#miperfil header .resumen p{
+	margin: 0px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #666666;
+}
+
+#miperfil header nav ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+
+#miperfil header nav ul li{
+	float: left;
+	margin: 0 0 20px 20px;
+	}
+
+#miperfil header nav ul li a{
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;	
+}
+
+#miperfil header nav ul li.activo a {
+	color: #b4b6b6
+}
+
+main .bio{
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+main .bio p{
+	color: white;
+}
+
