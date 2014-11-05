@@ -1,11 +1,13 @@
 body{
-	background-image: url('../img/back.png');
+	background-image: url('../img/bck2.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
 	font-family: 'Roboto', sans-serif;
 }
 
 #miperfil {
 	background-color: #02AFCF;
-	width: 460px;
+	width: 380px;
 	position: absolute;
 	left: 50%; /*Con esto lo mueves a la mitad y luego ya lo jalas */
 	top: 15%;
@@ -16,6 +18,7 @@ body{
 #miperfil header{
 	background-color: white;
 	border-radius: 20px 20px 0 0;
+	height: 150px;
 }
 
 #miperfil header .resumen{
@@ -84,5 +87,18 @@ main .bio{
 
 main .bio p{
 	color: white;
+}
+
+main .imagli img{
+	margin-left: 20px;
+	width: 22px;
+	height: 42px;
+}
+body .cubochess img{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	left: 120px;
+	bottom: 330px;
 }
 

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://web.resource.org/cc/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.0" width="360" height="360" id="svg2">
+  <defs id="defs4"/>
+  <g id="layer1">
+    <path d="M 139.71875,0 L 98.125,24 L 139.71875,48 L 181.28125,24 L 139.71875,0 z M 181.28125,24 L 222.84375,48 L 264.40625,24 L 222.84375,0 L 181.28125,24 z M 222.84375,48 L 181.28125,72 L 222.84375,96 L 264.40625,72 L 222.84375,48 z M 264.40625,72 L 306,96 L 306,144 C 306,143.99999 347.5625,120 347.5625,120 L 347.5625,72 L 306,48 L 264.40625,72 z M 306,144 L 264.40625,168 L 264.40625,216 C 264.40625,215.99999 306,192 306,192 L 306,144 z M 306,192 L 306,240 C 306,239.99999 347.5625,216 347.5625,216 L 347.5625,168 L 306,192 z M 306,240 L 264.40625,264 L 264.40625,312 C 264.40625,312.00001 306,288 306,288 L 306,240 z M 264.40625,264 L 264.40625,216 L 222.84375,240 L 222.84375,288 C 222.84376,288.00001 264.40625,264 264.40625,264 z M 222.84375,288 L 181.28125,312 L 139.71875,288 L 139.71875,336 C 139.71875,336 181.28125,360 181.28125,360 C 181.28125,360 222.84375,336 222.84375,336 L 222.84375,288 z M 139.71875,288 L 139.71875,240 L 98.125,216 L 98.125,264 C 98.125,264 139.71874,288.00001 139.71875,288 z M 98.125,264 L 56.5625,240 L 56.5625,288 C 56.5625,288 98.124997,312 98.125,312 L 98.125,264 z M 56.5625,240 L 56.5625,192 L 15,168 L 15,216 C 15,216 56.562502,239.99999 56.5625,240 z M 56.5625,192 C 56.5625,192 98.124997,216 98.125,216 L 98.125,168 L 56.5625,144 L 56.5625,192 z M 56.5625,144 L 56.5625,96 L 98.125,72 L 56.5625,48 L 15,72 L 15,120 C 15,120 56.562502,143.99999 56.5625,144 z M 98.125,72 L 139.71875,96 L 181.28125,72 L 139.71875,48 L 98.125,72 z M 139.71875,96 L 98.125,120 L 98.125,168 C 98.125,168 139.71874,191.99999 139.71875,192 L 139.71875,144 L 181.28125,120 L 139.71875,96 z M 181.28125,120 L 222.84375,144 L 222.84375,192 C 222.84376,191.99999 264.40625,168 264.40625,168 L 264.40625,120 L 222.84375,96 L 181.28125,120 z M 222.84375,192 L 181.28125,216 L 139.71875,192 L 139.71875,240 C 139.71875,240 181.28125,264.00001 181.28125,264 C 181.28125,264.00001 222.84375,240 222.84375,240 L 222.84375,192 z" id="path2394" style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Open Clip Art Library</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>3d chessboard</dc:title>
+        <dc:date>2011-01-10T22:23:56</dc:date>
+        <dc:description>It's kinda like a cube.</dc:description>
+        <dc:source>http://openclipart.org/detail/104329/3d-chessboard-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>3d</rdf:li>
+            <rdf:li>chessboard</rdf:li>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>cube</rdf:li>
+            <rdf:li>squares</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
