@@ -13,6 +13,7 @@ body{
 	top: 15%;
 	margin-left: -230px;
 	border-radius: 20px;
+	box-shadow: 2px 6px 5px black;
 }
 
 #miperfil header{
@@ -74,6 +75,11 @@ body{
 	font-size: 12px;
 	font-weight: bold;
 	color: #333333;	
+	transition: color .3s ease; 
+}
+
+#miperfil header nav ul li a:hover{
+	color: blue;
 }
 
 #miperfil header nav ul li.activo a {
@@ -90,9 +96,9 @@ main .bio p{
 }
 
 main .imagli img{
-	margin-left: 20px;
-	width: 22px;
-	height: 42px;
+	margin-left: 15px;
+	width: 30px;
+	height: 52px;
 }
 body .cubochess img{
 	width: 50px;
